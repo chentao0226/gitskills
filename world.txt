@@ -2,5 +2,5 @@ hello world!
 git is nice!
 
 git is good!
-nihao 
+HelloWorld! 
 
